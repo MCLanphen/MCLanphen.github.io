@@ -1,0 +1,9 @@
+.AlwaysUpdate{
+	height: 25px;
+	width: 300px;
+	border-radius: 10px;
+	outline: none;
+	border: none;
+	
+	background:linear-gradient(#6afc54,#2efc00);
+}
